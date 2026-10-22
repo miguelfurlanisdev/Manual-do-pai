@@ -100,10 +100,12 @@ h5{
 .grade-topicos{
     display: grid;
     gap: 5px;
+    padding: 0px, 0;
 }
 
 .topico{
     padding: 24px;
+    margin: 10px;
     background-color: rgba(171, 189, 6, 0.838);
     border-radius: 20px;
     box-shadow: 0 10px 30px ;
